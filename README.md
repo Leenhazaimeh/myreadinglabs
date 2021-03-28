@@ -8,5 +8,5 @@ https://github.com/Leenhazaimeh
 |read01     |[calss1](read01.md)|
 |read02     |[class2](read02.md)|
 |read03     |[class3](read03.md)|
-|read04     |[class3](read04.md)|
-|read05     |[class3](read05.md)|
+|read04     |[class4](read04.md)|
+|read05     |[class5](read05.md)|
