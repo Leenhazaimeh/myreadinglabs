@@ -10,3 +10,4 @@ https://github.com/Leenhazaimeh
 |read03     |[class3](reado3.md)|
 |read04     |[class4](read04.md)|
 |read05     |[class5](read05.md)|
+|read06     |[class6](read06.md)|
