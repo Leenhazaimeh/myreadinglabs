@@ -35,4 +35,19 @@ css :
 its own box,CSS rules usually appear in a separate document,
 although they may appear within an HTML page
 
+
+
+
+
+
+the one CSS style sheet, rather
+than changing the CSS rules on
+every page. The HTML code
+will be easier to read and edit
+because it does not have lots of
+CSS rules in the same document.
+It is generally considered good
+practice to have the content of
+the site separated from
+
  
